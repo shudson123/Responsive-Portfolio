@@ -265,6 +265,10 @@ and (max-width: 979px)
     nav {
         padding-right: 100px;
     }
+    p {
+        font-size: 14px;
+        line-height: 2em;
+    }
 }
 
 @media only screen
@@ -292,7 +296,9 @@ and (max-width: 767px)
     .work {
         width: 150px;
         height: 150px;
-
-
+    }
+    p {
+        font-size: 12px;
+        line-height: 2em;
     }
 }
